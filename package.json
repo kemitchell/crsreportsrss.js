@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "crsreportsrss",
+  "version": "0.0.0",
+  "bin": "bin.js",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "dependencies": {
+    "rss": "^1.2.2",
+    "rss-parser": "^3.12.0"
+  }
+}
